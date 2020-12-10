@@ -10,6 +10,6 @@
 /*!******************!*
   !*** ./index.js ***!
   \******************/
-eval("// const moment = require(\"moment\");\n// const { sqrt } = require('mathjs');\n// console.log(sqrt(4).toString()); // 2i\n// console.log(\"hello from javascript\");\n// console.log(moment().format(\"dddd, LL\"));\nvar firstName = \"John\";\nvar lastName = \"Doe\";\nvar age = 23;\nvar person = {\n  firstName: firstName,\n  lastName: lastName,\n  age: age\n};\nconsole.log(person.firstName);\n\n//# sourceURL=webpack://modern_javascript/./index.js?");
+eval("// const moment = require(\"moment\");\n// const { sqrt } = require('mathjs');\n// console.log(sqrt(4).toString()); // 2i\n// console.log(\"hello from javascript\");\n// console.log(moment().format(\"dddd, LL\"));\nvar firstName = \"John\";\nvar lastName = \"Doe\";\nvar age = 23;\nvar person = {\n  firstName: firstName,\n  lastName: lastName,\n  age: age\n};\nconsole.log(person);\n\n//# sourceURL=webpack://modern_javascript/./index.js?");
 /******/ })()
 ;

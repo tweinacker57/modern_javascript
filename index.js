@@ -16,4 +16,4 @@ var person = {
   lastName,
   age
 };
-console.log(person.firstName);
+console.log(person);
